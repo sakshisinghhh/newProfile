@@ -1,0 +1,78 @@
+{
+  "main": {
+    "name": "Sonny Sangha",
+    "description": "I eat, sleep and breathe React",
+    "image": "https://static.vecteezy.com/system/resources/previews/002/002/257/non_2x/beautiful-woman-avatar-character-icon-free-vector.jpg",
+    "email": "sakshi6778@gmail.com",
+    "phone": "6386058060",
+    "address": {
+      "street": "Bajaj Nagar",
+      "city": "Nagpur",
+      "state": "Maharashtra"
+    },
+    
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/@SakshiSingh33333",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "linkedin",
+        "url": "www.linkedin.com/in/sakshi-singh-b8b978266",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sakshi67789/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/sakshisinghhh",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Visvesvaraya National Institute of Technology",
+        "degree": "Bachelor's Degree, Electronic and Communication",
+        "graduated": "July 2026",
+        "description": "Graduated with First Class "
+      }
+    ],
+    "work": [
+      {
+        "company": "IDS",
+        "title": "Operational Head",
+        "years": "Nov 2023 - Present",
+        "description": "Discuss about the ideas to build something exciting . And working on different project as a team "
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "JAVA",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "Web Development",
+        "level": "10%"
+      }
+    ]
+  }
+}
